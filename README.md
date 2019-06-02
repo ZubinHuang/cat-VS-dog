@@ -5,3 +5,4 @@ The data can be downloaded in my Baidu cloud disk. The chinese freinds can refer
 Welcome to star! Enjoy it!
 
 ![image](https://github.com/ZubinHuang/cat-VS-dog/blob/master/trianloss-testaccuracy.png)
+![image](https://github.com/ZubinHuang/cat-VS-dog/blob/master/trianloss-testaccuracy.png)
